@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c# fdz\bin\Debug\net7.0\c# fdz.exe
+C:\Users\Admin\Desktop\c# fdz\bin\Debug\net7.0\c# fdz.deps.json
+C:\Users\Admin\Desktop\c# fdz\bin\Debug\net7.0\c# fdz.runtimeconfig.json
+C:\Users\Admin\Desktop\c# fdz\bin\Debug\net7.0\c# fdz.dll
+C:\Users\Admin\Desktop\c# fdz\bin\Debug\net7.0\c# fdz.pdb
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.dll
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\refint\c# fdz.dll
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.pdb
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\c# fdz.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c# fdz\obj\Debug\net7.0\ref\c# fdz.dll
